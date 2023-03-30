@@ -12,6 +12,10 @@ header{
   height: 80px;
 }
 
+#navbarPrincipal {
+  background-color: #fff !important;
+}
+
 
 
 header .menu-top{
@@ -27,7 +31,7 @@ header .menu-top{
 
 
 body{
-  background-color: rgb(236, 233, 233);
+  background-color:white;
 }
 
 
@@ -169,3 +173,5 @@ text-align: center;
 padding-top: 10px;
 font-size: 12px;
 }
+
+
