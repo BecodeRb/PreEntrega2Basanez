@@ -58,19 +58,7 @@ body{
   margin-right: 0%;
 }
 
-.ventajas-container{
-  background-color: rgb(233, 233, 233);
-  width: 100%;
-  text-align: center;
-  height: 400px;
- }
 
-.ventajas-box{
- background-color: rgb(233, 233, 233);
- width: 100%;
- text-align: center;
- height: 50px;
-}
 
 .titulo-ventajas{
   text-align: center;
@@ -120,7 +108,7 @@ body{
 p{
   text-decoration: none;
   font-family: 'Roboto', sans-serif;
-  font-weight:300;
+  font-weight:100;
 }
 
 

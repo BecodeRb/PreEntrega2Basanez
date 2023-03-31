@@ -1,0 +1,32 @@
+/* vars */
+.container-solucion {
+  background-color: #92C6D2;
+}
+.container-solucion .titulo-solucion {
+  background-color: #92C6D2;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+}
+
+.container-form {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: 0 auto;
+}
+@media screen {
+  .container-form {
+    min-width: 200px;
+    max-width: 300px;
+  }
+}
+.container-form .boton-form {
+  padding-top: 20px !important;
+  padding-bottom: 30px !important;
+}
+
+img .ventaja-icon {
+  padding: 40px;
+}/*# sourceMappingURL=main.css.map */

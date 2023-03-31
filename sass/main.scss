@@ -1,0 +1,44 @@
+
+/* vars */
+
+ $bgColor: #92C6D2;
+ $title-font: 'Roboto',sans-serif;
+
+
+.container-solucion{
+    background-color: $bgColor;
+
+                & .titulo-solucion{
+                        background-color: $bgColor;
+                        font-family: $title-font;
+                        font-weight: 900;
+                        text-align: center;
+                        color: white;
+                        padding-top: 20px;
+            }
+    }
+
+    .container-form{
+
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin: 0 auto;
+
+        @media screen {
+
+            min-width: 200px;
+            max-width: 300px;
+            
+        }
+
+        &  .boton-form {
+            padding-top: 20px !important;
+            padding-bottom: 30px !important; 
+        }
+    }
+
+    img .ventaja-icon{
+
+        padding: 40px;
+        
+    }
